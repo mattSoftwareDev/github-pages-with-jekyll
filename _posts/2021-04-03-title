@@ -1,3 +1,6 @@
-#Post Title
+---
+layout: post
+title:  "First Test Post"
+---
 
 Initial draft of first blog post.
